@@ -39,7 +39,7 @@ Standards:
         Path: /units/11-connecting-react to-an-api-server/01-fetch-api.md
       - Type: Lesson
         UID: bd8460f3-5faa-4fb6-b0af-b7841da7177f
-        Path: /units/11-connecting-react to-an-api-server/01-fetch-api.md
+        Path: /units/11-connecting-react to-an-api-server/02-testing-application-boundaries.md
       - Type: Checkpoint
         UID: 992ffcb1-d0bf-4379-90dc-a831bc2061f7
         Path: /checkpoints/11-connecting-react-to-an-api.md  
