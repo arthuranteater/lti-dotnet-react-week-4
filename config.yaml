@@ -22,7 +22,7 @@
 # Note: Be sure to place the cursor at the appropriate indentation level before running either of these.
 
 # All UIDs must be unique within a repo. Use `cmd/ctrl+option/alt+u` to generate
-Title: Week 4
+Title: Week Four
 Standards:   
   - Title: React State Management
     UID: 29bb5126-119a-4373-89b4-e6298217a5e1
