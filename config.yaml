@@ -35,18 +35,18 @@ Standards:
         Path: /units/11-react-state-management/00-overview.md
       - Type: Lesson
         UID: 23ec78cd-ccaf-4ed9-9a9f-21e9b83fe5fa
-        Path: /units/11-react-state-management/01-state-management.md
+        Path: /units/11-react-state-management/01-state-management-best-practices.md
       - Type: Lesson
         UID: a0c4220e-541b-4d8a-83e1-dde6524ed532
         Path: /units/11-react-state-management/02-redux.md
       - Type: Lesson
         UID: ffb7a409-89e0-4519-acc0-cad86cb0bd9a
-        Path: /units/11-react-state-management/02-react-context.md
+        Path: /units/11-react-state-management/03-react-context.md
       - Type: Checkpoint
         UID: b4bb2029-e7ab-426b-bc5d-81e3229eb888
-        Path: /checkpoints/11-react-state-management.md
+        Path: /checkpoints/11-react-state-managment.md
   - Title: Connecting React to an API
-    UID: 29bb5126-119a-4373-89b4-e6298217a5e1
+    UID: 6ceaca02-a3c6-4e06-8583-1794bf8c0681
     Description: Connecting to an API
     SuccessCriteria:
       -  Connect a React app to an API
@@ -54,7 +54,7 @@ Standards:
     ContentFiles:
       - Type: Lesson
         UID: 367e5c69-aab5-4125-9633-3e5116aa6ee4
-        Path: /units/12-connecting-react-to-an-api-server/00-overview.md
+        Path: /units/12-connecting-react to-an-api-server/00-overview.md
       - Type: Lesson
         UID: 2da12df7-e6de-4d2c-8454-b8470e20fb0f
         Path: /units/12-connecting-react-to-an-api-server/01-fetch-api.md
