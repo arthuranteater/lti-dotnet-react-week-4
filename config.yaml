@@ -35,7 +35,7 @@ Standards:
         Path: /units/11-react-state-management/00-overview.md
       - Type: Lesson
         UID: 23ec78cd-ccaf-4ed9-9a9f-21e9b83fe5fa
-        Path: /units/11-react-state-management/01-state-management-best-practices.md
+        Path: /units/11-react-state-management/01-state-management-best-practice.md
       - Type: Lesson
         UID: a0c4220e-541b-4d8a-83e1-dde6524ed532
         Path: /units/11-react-state-management/02-redux.md
@@ -57,10 +57,10 @@ Standards:
         Path: /units/12-connecting-react to-an-api-server/00-overview.md
       - Type: Lesson
         UID: 2da12df7-e6de-4d2c-8454-b8470e20fb0f
-        Path: /units/12-connecting-react-to-an-api-server/01-fetch-api.md
+        Path: /units/12-connecting-react to-an-api-server/01-fetch-api.md
       - Type: Lesson
         UID: bd8460f3-5faa-4fb6-b0af-b7841da7177f
-        Path: /units/12-connecting-react-to-an-api-server/02-testing-application-boundaries.md
+        Path: /units/12-connecting-react to-an-api-server/02-testing-application-boundaries.md
       - Type: Checkpoint
         UID: 992ffcb1-d0bf-4379-90dc-a831bc2061f7
         Path: /checkpoints/12-connecting-react-to-an-api.md  
