@@ -24,6 +24,27 @@
 # All UIDs must be unique within a repo. Use `cmd/ctrl+option/alt+u` to generate
 Title: Week 4
 Standards:   
+  - Title: React State Management
+    UID: 29bb5126-119a-4373-89b4-e6298217a5e1
+    Description: Connecting to an API
+    SuccessCriteria:
+      -  Be able to put state management in the react app
+    ContentFiles:
+      - Type: Lesson
+        UID: d148bcb6-f115-40bb-87c1-e9efe9102a09
+        Path: /units/11-react-state-management/00-overview.md
+      - Type: Lesson
+        UID: 23ec78cd-ccaf-4ed9-9a9f-21e9b83fe5fa
+        Path: /units/11-react-state-management/01-state-management.md
+      - Type: Lesson
+        UID: a0c4220e-541b-4d8a-83e1-dde6524ed532
+        Path: /units/11-react-state-management/02-redux.md
+      - Type: Lesson
+        UID: ffb7a409-89e0-4519-acc0-cad86cb0bd9a
+        Path: /units/11-react-state-management/02-react-context.md
+      - Type: Checkpoint
+        UID: b4bb2029-e7ab-426b-bc5d-81e3229eb888
+        Path: /checkpoints/11-react-state-management.md
   - Title: Connecting React to an API
     UID: 29bb5126-119a-4373-89b4-e6298217a5e1
     Description: Connecting to an API
@@ -33,13 +54,13 @@ Standards:
     ContentFiles:
       - Type: Lesson
         UID: 367e5c69-aab5-4125-9633-3e5116aa6ee4
-        Path: /units/11-connecting-react-to-an-api-server/00-overview.md
+        Path: /units/12-connecting-react-to-an-api-server/00-overview.md
       - Type: Lesson
         UID: 2da12df7-e6de-4d2c-8454-b8470e20fb0f
-        Path: /units/11-connecting-react-to-an-api-server/01-fetch-api.md
+        Path: /units/12-connecting-react-to-an-api-server/01-fetch-api.md
       - Type: Lesson
         UID: bd8460f3-5faa-4fb6-b0af-b7841da7177f
-        Path: /units/11-connecting-react-to-an-api-server/02-testing-application-boundaries.md
+        Path: /units/12-connecting-react-to-an-api-server/02-testing-application-boundaries.md
       - Type: Checkpoint
         UID: 992ffcb1-d0bf-4379-90dc-a831bc2061f7
-        Path: /checkpoints/11-connecting-react-to-an-api.md  
+        Path: /checkpoints/12-connecting-react-to-an-api.md  
